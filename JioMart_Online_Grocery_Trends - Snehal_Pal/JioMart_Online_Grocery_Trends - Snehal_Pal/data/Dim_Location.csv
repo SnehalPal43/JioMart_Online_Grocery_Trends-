@@ -1,0 +1,51 @@
+﻿Location_ID,City,State,Region
+L001,Mumbai,Maharashtra,West
+L002,Pune,Maharashtra,West
+L003,Nagpur,Maharashtra,West
+L004,Nashik,Maharashtra,West
+L005,Thane,Maharashtra,West
+L006,Aurangabad,Maharashtra,West
+L007,Ahmedabad,Gujarat,West
+L008,Surat,Gujarat,West
+L009,Vadodara,Gujarat,West
+L010,Rajkot,Gujarat,West
+L011,Delhi,Delhi,North
+L012,Noida,Uttar Pradesh,North
+L013,Lucknow,Uttar Pradesh,North
+L014,Jaipur,Rajasthan,North
+L015,Chandigarh,Chandigarh,North
+L016,Gurugram,Haryana,North
+L017,Kolkata,West Bengal,East
+L018,Bhubaneswar,Odisha,East
+L019,Patna,Bihar,East
+L020,Ranchi,Jharkhand,East
+L021,Bengaluru,Karnataka,South
+L022,Mysuru,Karnataka,South
+L023,Chennai,Tamil Nadu,South
+L024,Coimbatore,Tamil Nadu,South
+L025,Hyderabad,Telangana,South
+L026,Visakhapatnam,Andhra Pradesh,South
+L027,Kochi,Kerala,South
+L028,Thiruvananthapuram,Kerala,South
+L029,Vijayawada,Andhra Pradesh,South
+L030,Madurai,Tamil Nadu,South
+L031,Indore,Madhya Pradesh,Central
+L032,Bhopal,Madhya Pradesh,Central
+L033,Raipur,Chhattisgarh,Central
+L034,Bengaluru Rural,Karnataka,South
+L035,Amritsar,Punjab,North
+L036,Ludhiana,Punjab,North
+L037,Dehradun,Uttarakhand,North
+L038,Guwahati,Assam,East
+L039,Jodhpur,Rajasthan,North
+L040,Udaipur,Rajasthan,North
+L041,Kanpur,Uttar Pradesh,North
+L042,Agra,Uttar Pradesh,North
+L043,Varanasi,Uttar Pradesh,North
+L044,Vasai,Maharashtra,West
+L045,Navi Mumbai,Maharashtra,West
+L046,Kolhapur,Maharashtra,West
+L047,Goa,Goa,West
+L048,Mangalore,Karnataka,South
+L049,Salem,Tamil Nadu,South
+L050,Tiruchirappalli,Tamil Nadu,South

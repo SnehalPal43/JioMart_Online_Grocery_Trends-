@@ -1,0 +1,251 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Brand,List_Price
+P0001,Everyday Rice 1,Staples,Rice & Grains,Everyday,703.34
+P0002,FarmFresh Rice 2,Staples,Rice & Grains,FarmFresh,411.82
+P0003,GoodLife Rice 3,Staples,Rice & Grains,GoodLife,776.98
+P0004,FreshChoice Rice 4,Staples,Rice & Grains,FreshChoice,636.71
+P0005,DailyNeeds Rice 5,Staples,Rice & Grains,DailyNeeds,111.93
+P0006,NatureBest Rice 6,Staples,Rice & Grains,NatureBest,878.79
+P0007,ValueMart Rice 7,Staples,Rice & Grains,ValueMart,692.19
+P0008,PureHarvest Rice 8,Staples,Rice & Grains,PureHarvest,713.88
+P0009,Everyday Rice 9,Staples,Rice & Grains,Everyday,141.46
+P0010,FarmFresh Rice 10,Staples,Rice & Grains,FarmFresh,421.84
+P0011,GoodLife Rice 11,Staples,Rice & Grains,GoodLife,352.59
+P0012,FreshChoice Rice 12,Staples,Rice & Grains,FreshChoice,836.29
+P0013,DailyNeeds Flour 13,Staples,Flour & Atta,DailyNeeds,590.16
+P0014,NatureBest Flour 14,Staples,Flour & Atta,NatureBest,745.8
+P0015,ValueMart Flour 15,Staples,Flour & Atta,ValueMart,415.77
+P0016,PureHarvest Flour 16,Staples,Flour & Atta,PureHarvest,227.7
+P0017,Everyday Flour 17,Staples,Flour & Atta,Everyday,512.49
+P0018,FarmFresh Flour 18,Staples,Flour & Atta,FarmFresh,85.52
+P0019,GoodLife Flour 19,Staples,Flour & Atta,GoodLife,750.04
+P0020,FreshChoice Flour 20,Staples,Flour & Atta,FreshChoice,579.55
+P0021,DailyNeeds Flour 21,Staples,Flour & Atta,DailyNeeds,689.54
+P0022,NatureBest Flour 22,Staples,Flour & Atta,NatureBest,338.44
+P0023,ValueMart Flour 23,Staples,Flour & Atta,ValueMart,874.51
+P0024,PureHarvest Flour 24,Staples,Flour & Atta,PureHarvest,807.02
+P0025,Everyday Pulses 25,Staples,Pulses,Everyday,707.19
+P0026,FarmFresh Pulses 26,Staples,Pulses,FarmFresh,199.34
+P0027,GoodLife Pulses 27,Staples,Pulses,GoodLife,436.05
+P0028,FreshChoice Pulses 28,Staples,Pulses,FreshChoice,68.11
+P0029,DailyNeeds Pulses 29,Staples,Pulses,DailyNeeds,164.23
+P0030,NatureBest Pulses 30,Staples,Pulses,NatureBest,624.25
+P0031,ValueMart Pulses 31,Staples,Pulses,ValueMart,677.94
+P0032,PureHarvest Pulses 32,Staples,Pulses,PureHarvest,871.73
+P0033,Everyday Pulses 33,Staples,Pulses,Everyday,313.47
+P0034,FarmFresh Pulses 34,Staples,Pulses,FarmFresh,352.3
+P0035,GoodLife Pulses 35,Staples,Pulses,GoodLife,438.51
+P0036,FreshChoice Pulses 36,Staples,Pulses,FreshChoice,194.84
+P0037,DailyNeeds Oil 37,Staples,Oil & Ghee,DailyNeeds,143.03
+P0038,NatureBest Oil 38,Staples,Oil & Ghee,NatureBest,443.86
+P0039,ValueMart Oil 39,Staples,Oil & Ghee,ValueMart,227.41
+P0040,PureHarvest Oil 40,Staples,Oil & Ghee,PureHarvest,612.74
+P0041,Everyday Oil 41,Staples,Oil & Ghee,Everyday,410.32
+P0042,FarmFresh Oil 42,Staples,Oil & Ghee,FarmFresh,754.43
+P0043,GoodLife Oil 43,Staples,Oil & Ghee,GoodLife,639.23
+P0044,FreshChoice Oil 44,Staples,Oil & Ghee,FreshChoice,301.76
+P0045,DailyNeeds Oil 45,Staples,Oil & Ghee,DailyNeeds,754.07
+P0046,NatureBest Oil 46,Staples,Oil & Ghee,NatureBest,730.14
+P0047,ValueMart Oil 47,Staples,Oil & Ghee,ValueMart,367.11
+P0048,PureHarvest Oil 48,Staples,Oil & Ghee,PureHarvest,280.85
+P0049,Everyday Fresh 49,Fruits & Vegetables,Fresh Fruits,Everyday,623.77
+P0050,FarmFresh Fresh 50,Fruits & Vegetables,Fresh Fruits,FarmFresh,151.58
+P0051,GoodLife Fresh 51,Fruits & Vegetables,Fresh Fruits,GoodLife,203.92
+P0052,FreshChoice Fresh 52,Fruits & Vegetables,Fresh Fruits,FreshChoice,36.41
+P0053,DailyNeeds Fresh 53,Fruits & Vegetables,Fresh Fruits,DailyNeeds,714.62
+P0054,NatureBest Fresh 54,Fruits & Vegetables,Fresh Fruits,NatureBest,608.42
+P0055,ValueMart Fresh 55,Fruits & Vegetables,Fresh Fruits,ValueMart,643.49
+P0056,PureHarvest Fresh 56,Fruits & Vegetables,Fresh Fruits,PureHarvest,709.23
+P0057,Everyday Fresh 57,Fruits & Vegetables,Fresh Fruits,Everyday,429.26
+P0058,FarmFresh Fresh 58,Fruits & Vegetables,Fresh Fruits,FarmFresh,524.8
+P0059,GoodLife Fresh 59,Fruits & Vegetables,Fresh Fruits,GoodLife,151.62
+P0060,FreshChoice Fresh 60,Fruits & Vegetables,Fresh Fruits,FreshChoice,129.64
+P0061,DailyNeeds Fresh 61,Fruits & Vegetables,Fresh Vegetables,DailyNeeds,611.51
+P0062,NatureBest Fresh 62,Fruits & Vegetables,Fresh Vegetables,NatureBest,439.85
+P0063,ValueMart Fresh 63,Fruits & Vegetables,Fresh Vegetables,ValueMart,521.76
+P0064,PureHarvest Fresh 64,Fruits & Vegetables,Fresh Vegetables,PureHarvest,695.55
+P0065,Everyday Fresh 65,Fruits & Vegetables,Fresh Vegetables,Everyday,582.2
+P0066,FarmFresh Fresh 66,Fruits & Vegetables,Fresh Vegetables,FarmFresh,511.61
+P0067,GoodLife Fresh 67,Fruits & Vegetables,Fresh Vegetables,GoodLife,516.51
+P0068,FreshChoice Fresh 68,Fruits & Vegetables,Fresh Vegetables,FreshChoice,294.44
+P0069,DailyNeeds Fresh 69,Fruits & Vegetables,Fresh Vegetables,DailyNeeds,56.81
+P0070,NatureBest Fresh 70,Fruits & Vegetables,Fresh Vegetables,NatureBest,409.94
+P0071,ValueMart Fresh 71,Fruits & Vegetables,Fresh Vegetables,ValueMart,216.69
+P0072,PureHarvest Fresh 72,Fruits & Vegetables,Fresh Vegetables,PureHarvest,385.42
+P0073,Everyday Leafy 73,Fruits & Vegetables,Leafy Vegetables,Everyday,772.46
+P0074,FarmFresh Leafy 74,Fruits & Vegetables,Leafy Vegetables,FarmFresh,233.53
+P0075,GoodLife Leafy 75,Fruits & Vegetables,Leafy Vegetables,GoodLife,80.72
+P0076,FreshChoice Leafy 76,Fruits & Vegetables,Leafy Vegetables,FreshChoice,274.8
+P0077,DailyNeeds Leafy 77,Fruits & Vegetables,Leafy Vegetables,DailyNeeds,285.43
+P0078,NatureBest Leafy 78,Fruits & Vegetables,Leafy Vegetables,NatureBest,605.87
+P0079,ValueMart Leafy 79,Fruits & Vegetables,Leafy Vegetables,ValueMart,514.62
+P0080,PureHarvest Leafy 80,Fruits & Vegetables,Leafy Vegetables,PureHarvest,711.99
+P0081,Everyday Leafy 81,Fruits & Vegetables,Leafy Vegetables,Everyday,607.95
+P0082,FarmFresh Leafy 82,Fruits & Vegetables,Leafy Vegetables,FarmFresh,383.56
+P0083,GoodLife Leafy 83,Fruits & Vegetables,Leafy Vegetables,GoodLife,738.2
+P0084,FreshChoice Leafy 84,Fruits & Vegetables,Leafy Vegetables,FreshChoice,175.27
+P0085,DailyNeeds Milk 85,Dairy & Bakery,Milk & Dairy,DailyNeeds,49.76
+P0086,NatureBest Milk 86,Dairy & Bakery,Milk & Dairy,NatureBest,108.34
+P0087,ValueMart Milk 87,Dairy & Bakery,Milk & Dairy,ValueMart,658.45
+P0088,PureHarvest Milk 88,Dairy & Bakery,Milk & Dairy,PureHarvest,431.83
+P0089,Everyday Milk 89,Dairy & Bakery,Milk & Dairy,Everyday,170.31
+P0090,FarmFresh Milk 90,Dairy & Bakery,Milk & Dairy,FarmFresh,465.91
+P0091,GoodLife Milk 91,Dairy & Bakery,Milk & Dairy,GoodLife,162.51
+P0092,FreshChoice Milk 92,Dairy & Bakery,Milk & Dairy,FreshChoice,635.8
+P0093,DailyNeeds Milk 93,Dairy & Bakery,Milk & Dairy,DailyNeeds,418.16
+P0094,NatureBest Milk 94,Dairy & Bakery,Milk & Dairy,NatureBest,361.49
+P0095,ValueMart Milk 95,Dairy & Bakery,Milk & Dairy,ValueMart,292.32
+P0096,PureHarvest Milk 96,Dairy & Bakery,Milk & Dairy,PureHarvest,578.35
+P0097,Everyday Bread 97,Dairy & Bakery,Bread & Bakery,Everyday,344.78
+P0098,FarmFresh Bread 98,Dairy & Bakery,Bread & Bakery,FarmFresh,106.26
+P0099,GoodLife Bread 99,Dairy & Bakery,Bread & Bakery,GoodLife,132.67
+P0100,FreshChoice Bread 100,Dairy & Bakery,Bread & Bakery,FreshChoice,866.85
+P0101,DailyNeeds Bread 101,Dairy & Bakery,Bread & Bakery,DailyNeeds,820.47
+P0102,NatureBest Bread 102,Dairy & Bakery,Bread & Bakery,NatureBest,638.75
+P0103,ValueMart Bread 103,Dairy & Bakery,Bread & Bakery,ValueMart,261.31
+P0104,PureHarvest Bread 104,Dairy & Bakery,Bread & Bakery,PureHarvest,873.18
+P0105,Everyday Bread 105,Dairy & Bakery,Bread & Bakery,Everyday,707.51
+P0106,FarmFresh Bread 106,Dairy & Bakery,Bread & Bakery,FarmFresh,653.69
+P0107,GoodLife Bread 107,Dairy & Bakery,Bread & Bakery,GoodLife,420.94
+P0108,FreshChoice Bread 108,Dairy & Bakery,Bread & Bakery,FreshChoice,266.85
+P0109,DailyNeeds Eggs 109,Dairy & Bakery,Eggs,DailyNeeds,113.86
+P0110,NatureBest Eggs 110,Dairy & Bakery,Eggs,NatureBest,815.26
+P0111,ValueMart Eggs 111,Dairy & Bakery,Eggs,ValueMart,426.53
+P0112,PureHarvest Eggs 112,Dairy & Bakery,Eggs,PureHarvest,206.06
+P0113,Everyday Eggs 113,Dairy & Bakery,Eggs,Everyday,296.18
+P0114,FarmFresh Eggs 114,Dairy & Bakery,Eggs,FarmFresh,533.92
+P0115,GoodLife Eggs 115,Dairy & Bakery,Eggs,GoodLife,183.79
+P0116,FreshChoice Eggs 116,Dairy & Bakery,Eggs,FreshChoice,775.25
+P0117,DailyNeeds Eggs 117,Dairy & Bakery,Eggs,DailyNeeds,689.91
+P0118,NatureBest Eggs 118,Dairy & Bakery,Eggs,NatureBest,655.93
+P0119,ValueMart Eggs 119,Dairy & Bakery,Eggs,ValueMart,405.92
+P0120,PureHarvest Eggs 120,Dairy & Bakery,Eggs,PureHarvest,575.76
+P0121,Everyday Biscuits 121,Snacks & Beverages,Biscuits & Snacks,Everyday,538.17
+P0122,FarmFresh Biscuits 122,Snacks & Beverages,Biscuits & Snacks,FarmFresh,595.37
+P0123,GoodLife Biscuits 123,Snacks & Beverages,Biscuits & Snacks,GoodLife,103.47
+P0124,FreshChoice Biscuits 124,Snacks & Beverages,Biscuits & Snacks,FreshChoice,391.75
+P0125,DailyNeeds Biscuits 125,Snacks & Beverages,Biscuits & Snacks,DailyNeeds,66.2
+P0126,NatureBest Biscuits 126,Snacks & Beverages,Biscuits & Snacks,NatureBest,459.77
+P0127,ValueMart Biscuits 127,Snacks & Beverages,Biscuits & Snacks,ValueMart,316.98
+P0128,PureHarvest Biscuits 128,Snacks & Beverages,Biscuits & Snacks,PureHarvest,155.74
+P0129,Everyday Biscuits 129,Snacks & Beverages,Biscuits & Snacks,Everyday,119.96
+P0130,FarmFresh Biscuits 130,Snacks & Beverages,Biscuits & Snacks,FarmFresh,541.25
+P0131,GoodLife Biscuits 131,Snacks & Beverages,Biscuits & Snacks,GoodLife,178.42
+P0132,FreshChoice Biscuits 132,Snacks & Beverages,Biscuits & Snacks,FreshChoice,834.85
+P0133,DailyNeeds Tea 133,Snacks & Beverages,Tea & Coffee,DailyNeeds,535.52
+P0134,NatureBest Tea 134,Snacks & Beverages,Tea & Coffee,NatureBest,331.78
+P0135,ValueMart Tea 135,Snacks & Beverages,Tea & Coffee,ValueMart,544.1
+P0136,PureHarvest Tea 136,Snacks & Beverages,Tea & Coffee,PureHarvest,49.84
+P0137,Everyday Tea 137,Snacks & Beverages,Tea & Coffee,Everyday,863.95
+P0138,FarmFresh Tea 138,Snacks & Beverages,Tea & Coffee,FarmFresh,449.6
+P0139,GoodLife Tea 139,Snacks & Beverages,Tea & Coffee,GoodLife,710.98
+P0140,FreshChoice Tea 140,Snacks & Beverages,Tea & Coffee,FreshChoice,101.98
+P0141,DailyNeeds Tea 141,Snacks & Beverages,Tea & Coffee,DailyNeeds,453.39
+P0142,NatureBest Tea 142,Snacks & Beverages,Tea & Coffee,NatureBest,456.92
+P0143,ValueMart Tea 143,Snacks & Beverages,Tea & Coffee,ValueMart,845.91
+P0144,PureHarvest Tea 144,Snacks & Beverages,Tea & Coffee,PureHarvest,527.4
+P0145,Everyday Soft 145,Snacks & Beverages,Soft Drinks,Everyday,441.94
+P0146,FarmFresh Soft 146,Snacks & Beverages,Soft Drinks,FarmFresh,262.27
+P0147,GoodLife Soft 147,Snacks & Beverages,Soft Drinks,GoodLife,318.47
+P0148,FreshChoice Soft 148,Snacks & Beverages,Soft Drinks,FreshChoice,482.98
+P0149,DailyNeeds Soft 149,Snacks & Beverages,Soft Drinks,DailyNeeds,411.85
+P0150,NatureBest Soft 150,Snacks & Beverages,Soft Drinks,NatureBest,48.8
+P0151,ValueMart Soft 151,Snacks & Beverages,Soft Drinks,ValueMart,748.87
+P0152,PureHarvest Soft 152,Snacks & Beverages,Soft Drinks,PureHarvest,809.66
+P0153,Everyday Soft 153,Snacks & Beverages,Soft Drinks,Everyday,152.02
+P0154,FarmFresh Soft 154,Snacks & Beverages,Soft Drinks,FarmFresh,512.01
+P0155,GoodLife Soft 155,Snacks & Beverages,Soft Drinks,GoodLife,124.46
+P0156,FreshChoice Soft 156,Snacks & Beverages,Soft Drinks,FreshChoice,614.85
+P0157,DailyNeeds Juices 157,Snacks & Beverages,Juices,DailyNeeds,274.67
+P0158,NatureBest Juices 158,Snacks & Beverages,Juices,NatureBest,603.7
+P0159,ValueMart Juices 159,Snacks & Beverages,Juices,ValueMart,662.49
+P0160,PureHarvest Juices 160,Snacks & Beverages,Juices,PureHarvest,698.72
+P0161,Everyday Juices 161,Snacks & Beverages,Juices,Everyday,123.73
+P0162,FarmFresh Juices 162,Snacks & Beverages,Juices,FarmFresh,826.93
+P0163,GoodLife Juices 163,Snacks & Beverages,Juices,GoodLife,230.29
+P0164,FreshChoice Juices 164,Snacks & Beverages,Juices,FreshChoice,62.55
+P0165,DailyNeeds Juices 165,Snacks & Beverages,Juices,DailyNeeds,512.72
+P0166,NatureBest Juices 166,Snacks & Beverages,Juices,NatureBest,352.7
+P0167,ValueMart Juices 167,Snacks & Beverages,Juices,ValueMart,751.92
+P0168,PureHarvest Juices 168,Snacks & Beverages,Juices,PureHarvest,733.18
+P0169,Everyday Bath 169,Personal Care,Bath & Body,Everyday,305.91
+P0170,FarmFresh Bath 170,Personal Care,Bath & Body,FarmFresh,859.02
+P0171,GoodLife Bath 171,Personal Care,Bath & Body,GoodLife,283.1
+P0172,FreshChoice Bath 172,Personal Care,Bath & Body,FreshChoice,478.1
+P0173,DailyNeeds Bath 173,Personal Care,Bath & Body,DailyNeeds,252.69
+P0174,NatureBest Bath 174,Personal Care,Bath & Body,NatureBest,844.36
+P0175,ValueMart Bath 175,Personal Care,Bath & Body,ValueMart,173.21
+P0176,PureHarvest Bath 176,Personal Care,Bath & Body,PureHarvest,69.07
+P0177,Everyday Bath 177,Personal Care,Bath & Body,Everyday,408.53
+P0178,FarmFresh Bath 178,Personal Care,Bath & Body,FarmFresh,893.37
+P0179,GoodLife Bath 179,Personal Care,Bath & Body,GoodLife,805.76
+P0180,FreshChoice Bath 180,Personal Care,Bath & Body,FreshChoice,681.29
+P0181,DailyNeeds Hair 181,Personal Care,Hair Care,DailyNeeds,804.99
+P0182,NatureBest Hair 182,Personal Care,Hair Care,NatureBest,807.3
+P0183,ValueMart Hair 183,Personal Care,Hair Care,ValueMart,481.41
+P0184,PureHarvest Hair 184,Personal Care,Hair Care,PureHarvest,304.86
+P0185,Everyday Hair 185,Personal Care,Hair Care,Everyday,701.65
+P0186,FarmFresh Hair 186,Personal Care,Hair Care,FarmFresh,605.65
+P0187,GoodLife Hair 187,Personal Care,Hair Care,GoodLife,355.08
+P0188,FreshChoice Hair 188,Personal Care,Hair Care,FreshChoice,112.19
+P0189,DailyNeeds Hair 189,Personal Care,Hair Care,DailyNeeds,679.71
+P0190,NatureBest Hair 190,Personal Care,Hair Care,NatureBest,258.34
+P0191,ValueMart Hair 191,Personal Care,Hair Care,ValueMart,845.03
+P0192,PureHarvest Hair 192,Personal Care,Hair Care,PureHarvest,239.64
+P0193,Everyday Oral 193,Personal Care,Oral Care,Everyday,136.8
+P0194,FarmFresh Oral 194,Personal Care,Oral Care,FarmFresh,753.07
+P0195,GoodLife Oral 195,Personal Care,Oral Care,GoodLife,163.36
+P0196,FreshChoice Oral 196,Personal Care,Oral Care,FreshChoice,185.96
+P0197,DailyNeeds Oral 197,Personal Care,Oral Care,DailyNeeds,551.46
+P0198,NatureBest Oral 198,Personal Care,Oral Care,NatureBest,790.87
+P0199,ValueMart Oral 199,Personal Care,Oral Care,ValueMart,200.9
+P0200,PureHarvest Oral 200,Personal Care,Oral Care,PureHarvest,299.98
+P0201,Everyday Oral 201,Personal Care,Oral Care,Everyday,706.34
+P0202,FarmFresh Oral 202,Personal Care,Oral Care,FarmFresh,875.49
+P0203,GoodLife Oral 203,Personal Care,Oral Care,GoodLife,465.64
+P0204,FreshChoice Oral 204,Personal Care,Oral Care,FreshChoice,155.19
+P0205,DailyNeeds Cleaning 205,Household Care,Cleaning,DailyNeeds,42.12
+P0206,NatureBest Cleaning 206,Household Care,Cleaning,NatureBest,229.8
+P0207,ValueMart Cleaning 207,Household Care,Cleaning,ValueMart,144.69
+P0208,PureHarvest Cleaning 208,Household Care,Cleaning,PureHarvest,619.56
+P0209,Everyday Cleaning 209,Household Care,Cleaning,Everyday,135.99
+P0210,FarmFresh Cleaning 210,Household Care,Cleaning,FarmFresh,470.51
+P0211,GoodLife Cleaning 211,Household Care,Cleaning,GoodLife,634.01
+P0212,FreshChoice Cleaning 212,Household Care,Cleaning,FreshChoice,535.57
+P0213,DailyNeeds Cleaning 213,Household Care,Cleaning,DailyNeeds,203.8
+P0214,NatureBest Cleaning 214,Household Care,Cleaning,NatureBest,729.59
+P0215,ValueMart Cleaning 215,Household Care,Cleaning,ValueMart,652.4
+P0216,PureHarvest Cleaning 216,Household Care,Cleaning,PureHarvest,672.92
+P0217,Everyday Laundry 217,Household Care,Laundry,Everyday,144.02
+P0218,FarmFresh Laundry 218,Household Care,Laundry,FarmFresh,137.67
+P0219,GoodLife Laundry 219,Household Care,Laundry,GoodLife,836.98
+P0220,FreshChoice Laundry 220,Household Care,Laundry,FreshChoice,375.89
+P0221,DailyNeeds Laundry 221,Household Care,Laundry,DailyNeeds,291.83
+P0222,NatureBest Laundry 222,Household Care,Laundry,NatureBest,455.07
+P0223,ValueMart Laundry 223,Household Care,Laundry,ValueMart,606.69
+P0224,PureHarvest Laundry 224,Household Care,Laundry,PureHarvest,861.39
+P0225,Everyday Laundry 225,Household Care,Laundry,Everyday,279.21
+P0226,FarmFresh Laundry 226,Household Care,Laundry,FarmFresh,834.58
+P0227,GoodLife Laundry 227,Household Care,Laundry,GoodLife,51.63
+P0228,FreshChoice Laundry 228,Household Care,Laundry,FreshChoice,513.02
+P0229,DailyNeeds Home 229,Household Care,Home Essentials,DailyNeeds,581.56
+P0230,NatureBest Home 230,Household Care,Home Essentials,NatureBest,122.13
+P0231,ValueMart Home 231,Household Care,Home Essentials,ValueMart,152.1
+P0232,PureHarvest Home 232,Household Care,Home Essentials,PureHarvest,394.63
+P0233,Everyday Home 233,Household Care,Home Essentials,Everyday,870.62
+P0234,FarmFresh Home 234,Household Care,Home Essentials,FarmFresh,548.56
+P0235,GoodLife Home 235,Household Care,Home Essentials,GoodLife,841.73
+P0236,FreshChoice Home 236,Household Care,Home Essentials,FreshChoice,729.79
+P0237,DailyNeeds Home 237,Household Care,Home Essentials,DailyNeeds,436.62
+P0238,NatureBest Home 238,Household Care,Home Essentials,NatureBest,712.74
+P0239,ValueMart Home 239,Household Care,Home Essentials,ValueMart,45.52
+P0240,PureHarvest Home 240,Household Care,Home Essentials,PureHarvest,124.96
+P0241,GoodLife Leafy 241,Fruits & Vegetables,Leafy Vegetables,GoodLife,232.4
+P0242,DailyNeeds Hair 242,Personal Care,Hair Care,DailyNeeds,557.23
+P0243,ValueMart Home 243,Household Care,Home Essentials,ValueMart,388.94
+P0244,GoodLife Biscuits 244,Snacks & Beverages,Biscuits & Snacks,GoodLife,400.52
+P0245,PureHarvest Pulses 245,Staples,Pulses,PureHarvest,424.89
+P0246,FarmFresh Laundry 246,Household Care,Laundry,FarmFresh,235.9
+P0247,ValueMart Home 247,Household Care,Home Essentials,ValueMart,121.59
+P0248,Everyday Oral 248,Personal Care,Oral Care,Everyday,547.16
+P0249,FarmFresh Milk 249,Dairy & Bakery,Milk & Dairy,FarmFresh,299.99
+P0250,FarmFresh Oral 250,Personal Care,Oral Care,FarmFresh,831.24
